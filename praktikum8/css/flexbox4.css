@@ -1,0 +1,48 @@
+* {
+    font-size: 20px;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background: pink;
+}
+
+header {
+    height: 20px;
+    background: aqua;
+    padding: 30px;
+    margin: 10px;
+}
+
+aside {
+    width: 30%;
+    height: 500px;
+    background: cadetblue;
+    padding: 30px;
+    margin: 10px;
+}
+
+.main {
+    background:fuchsia;
+    width: 100%;
+    padding: 30px;
+    margin: 10px;
+    text-align: center;
+}
+
+article section {
+    width: 70%;
+    background: grey;
+    display: flex;
+    padding: 30px;
+    margin: 10px;
+    justify-content: center;
+}
+
+footer {
+    height: 20px;
+    background: aqua;
+    padding: 30px;
+    margin: 10px;
+}
